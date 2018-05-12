@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9135'
     url: http://www.gutenberg.org/2009/agents/9135
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40933#The-Wonderful-Story-of-LincolnAnd-the-Meaning-of-His-Life-for-the-Youth-and-Patriotism-of-Ame_
 gutenberg_issued: '2012-10-04'
 gutenberg_type: Text
 identifiers:
